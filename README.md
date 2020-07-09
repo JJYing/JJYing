@@ -1,4 +1,4 @@
-I'm JJ, a designer based in Shanghai, China. In the making of my design podcast's [website](https://anyway.fm), I learnt some old-school web technolodies. My HTML/CSS/JS/PHP skills are lame but I do have lots of passions in creating stuff on web 😙
+I'm JJ, a designer based in Shanghai, China. In the making of my design podcast's [website](https://anyway.fm), I learnt some old-school web technolodies, my HTML/CSS/JS/PHP skills are still lame but I do have lots of passions in creating stuff on web 😙
 
 <!--
 **JJYing/JJYing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
